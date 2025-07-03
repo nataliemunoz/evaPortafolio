@@ -13,7 +13,7 @@ Este es un portafolio web personal desarrollado por Natalie Muñoz. El sitio mue
 ## Instalación y uso
 
 1. **Clona el repositorio** o descarga los archivos.
-https://github.com/nataliemunoz/evaPortafolio.gitgit
+https://github.com/nataliemunoz/evaPortafolio.git
 2. Abre `index.html` en tu navegador.
 3. Asegúrate de tener conexión a internet para cargar Bootstrap y jQuery desde CDN.
 
